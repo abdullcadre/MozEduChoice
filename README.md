@@ -1,6 +1,6 @@
 # MozEduChoice
 
-![Logo do MozEduChoice](logo.png)
+![Logo do MozEduChoice](1697275515586.jpg)
 
 MozEduChoice é um aplicativo projetado para ajudar alunos da classe média de Moçambique a escolher um curso universitário com base em seus interesses, grupo de 12ª classe, paixão de carreira e habilidades. O aplicativo utiliza a inteligência artificial da OpenAI para fornecer recomendações de cursos personalizadas aos usuários.
 
