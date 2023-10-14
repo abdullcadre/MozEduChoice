@@ -1,0 +1,169 @@
+{
+  "Moçambique": {
+    "Maputo": {
+      "Presenciais": [
+        "Universidade Eduardo Mondlane",
+        "Universidade Pedagógica",
+        "Universidade Politécnica",
+        "Universidade Wutivi",
+        "Universidade São Tomás de Moçambique",
+        "Universidade Técnica de Moçambique",
+        "Universidade Joaquim Chissano",
+        "Universidade Nachingwea",
+        "Instituto Superior de Ciências de Saúde",
+        "Instituto Superior de Transportes e Telecomunicações",
+        "Instituto Superior de Ciência e Tecnologia de Moçambique",
+        "Instituto Superior de Contabilidade e Auditoria de Moçambique",
+        "Instituto Superior de Gestão, Administração e Educação",
+        "Instituto Superior de Comunicação e Imagem de Moçambique",
+        "Instituto Superior Maria Mãe África",
+        "Instituto Superior de Artes e Cultura",
+        "Instituto Superior Dom Bosco",
+        "Instituto Superior de Ciência e Gestão",
+        "Instituto Superior de Educação e Tecnologia",
+        "Instituto Superior de Gestão e Empreendedorismo Gwaza Muthine",
+        "Instituto Superior de Gestão, Comércio e Finanças",
+        "Instituto Superior de Estudos de Defesa",
+        "Instituto Superior de Formação, Investigação e Ciência",
+        "Instituto Superior de Estudos de Desenvolvimento Local",
+        "Instituto Superior de Ciências Empresariais e Tecnológicas",
+        "Instituto Superior Politécnico e de Tecnológicas",
+        "Instituto Superior de Ciência e Tecnologia Alberto Chipande",
+        "Instituto Superior Mutassa",
+        "Escola Superior de Ciências Náuticas",
+        "Escola Superior de Jornalismo",
+        "Escola Superior de Economia e Gestão",
+        "Escola Superior de Gestão Corporativa e Social",
+        "Academia de Ciências Policiais",
+        "Academia de Altos Estudos Estratégicos"
+      ],
+      "À Distância": [
+        "Instituto Superior Monitor",
+        "Instituto Superior de Ciência e Educação à Distância"
+      ]
+    },
+    "Gaza": {
+      "Presenciais": [
+        "Escola Superior de Negócios e Empreendedorismo de Chibuto (UEM)",
+        "Universidade Save",
+        "Universidade São Tomás de Moçambique",
+        "Instituto Superior Politécnico de Gaza",
+        "Instituto Superior de Gestão e Negócios",
+        "Instituto Superior de Gestão e Empreendedorismo Gwaza Muthine"
+      ],
+      "À Distância": [
+        "Instituto Superior Monitor",
+        "Instituto Superior de Ciência e Educação à Distância"
+      ]
+    },
+    "Inhambane": {
+      "Presenciais": [
+        "Escola Superior de Desenvolvimento Rural (UEM)",
+        "Universidade Save - UniSave",
+        "Universidade Metodista Unida de Moçambique"
+      ],
+      "À Distância": [
+        "Instituto Superior Monitor",
+        "Instituto Superior de Ciência e Educação à Distância"
+      ]
+    },
+    "Sofala": {
+      "Presenciais": [
+        "Universidade Católica de Moçambique",
+        "Universidade Licungo",
+        "Universidade Adventista de Moçambique",
+        "Universidade Zambeze",
+        "Universidade Jean Piaget de Moçambique",
+        "Instituto Superior de Ciência e Tecnologia Alberto Chipande",
+        "Instituto superior de Ciências de Saúde"
+      ],
+      "À Distância": [
+        "Instituto Superior Monitor",
+        "Instituto Superior de Ciência e Educação à Distância"
+      ]
+    },
+    "Zambézia": {
+      "Presenciais": [
+        "Escola Superior de Ciências Marinhas e Costeiras (UEM)",
+        "Universidade Católica de Moçambique",
+        "Universidade Licungo",
+        "Universidade Politécnica",
+        "Universidade Zambeze",
+        "Universidade Mussa Bin Bique",
+        "Instituto superior de Ciências de Saúde",
+        "Instituto Superior Cristã",
+        "Instituto Superior de Gestão e Comércio e Finanças"
+      ],
+      "À Distância": [
+        "Instituto Superior de Ciência e Educação à Distância"
+      ]
+    },
+    "Manica": {
+      "Presenciais": [
+        "Universidade Católica de Moçambique",
+        "Universidade Púnguè",
+        "Universidade Zambeze",
+        "Instituto superior Politécnica de Manica",
+        "Instituto Superior Mutasa"
+      ],
+      "À Distância": [
+        "Instituto Superior de Ciência e Educação à Distância"
+      ]
+    },
+    "Tete": {
+      "Presenciais": [
+        "Universidade Católica de Moçambique",
+        "Universidade Púnguè",
+        "Universidade Politécnica",
+        "Universidade Zambeze",
+        "Instituto superior Politécnico de Tete",
+        "Instituto Superior Politécnico de Songo",
+        "Instituto Superior Cristã",
+        "Instituto Superior de Gestão, Comércio e Finanças"
+      ],
+      "À Distância": [
+        "Instituto Superior Monitor",
+        "Instituto Superior de Ciência e Educação à Distância"
+      ]
+    },
+    "Nampula": {
+      "Presenciais": [
+        "Universidade Católica de Moçambique",
+        "Universidade Rovuma",
+        "Universidade Politécnica",
+        "Universidade Lúrio",
+        "Universidade Mussa Bin Bique",
+        "Instituto superior de Ciências de Saúde",
+        "Instituto Superior de Comunicação e Imagem de Moçambique",
+        "Instituto Superior de Gestão, Comércio e Finanças",
+        "Academia de Militar"
+      ],
+      "À Distância": [
+        "Instituto Superior Monitor",
+        "Instituto Superior de Ciência e Educação à Distância"
+      ]
+    },
+    "Niassa": {
+      "Presenciais": [
+        "Universidade Católica de Moçambique",
+        "Universidade Rovuma",
+        "Universidade Lúrio",
+        "Instituto superior de Gestão, Comércio e Finanças"
+      ],
+      "À Distância": [
+        "Instituto Superior de Ciência e Educação à Distância"
+      ]
+    },
+    "Cabo Delgado": {
+      "Presenciais": [
+        "Universidade Católica de Moçambique",
+        "Universidade Rovuma",
+        "UniLúrio"
+      ],
+      "À Distância": [
+        "Instituto Superior Monitor",
+        "Instituto Superior de Ciência e Educação à Distância"
+      ]
+    }
+  }
+}
