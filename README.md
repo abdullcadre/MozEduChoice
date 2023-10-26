@@ -1,3 +1,7 @@
+![MozEduChoice Logo](IMG_20231014_114719.jpg)
+
+
+
 # MozEduChoice
 
 ## Descrição
